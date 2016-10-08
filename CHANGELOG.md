@@ -5,6 +5,7 @@
 ### New features
 
 * [#xxxx](https://example.com/xxxx): Add foo feature. ([@pocke][])
+* [#xxxx](https://example.com/xxxx): Add feature 2. ([@pocke][])
 
 ### Bug fixes
 
